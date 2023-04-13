@@ -1,0 +1,32 @@
+body {
+    background-color: rgba(38, 70, 83, 0.8);
+    font-family: 'Alkatra', cursive;
+    margin: 0%;
+    padding: 0%;
+}
+
+.box1 {
+    width: auto;
+    padding: 70px;
+    margin: 0 auto;
+    background-color: rgba(42, 157, 143, 1);
+    font-weight: bold;
+    /* border-radius: 15px; */
+    text-underline-position: auto;
+}
+
+.LogoBA {
+    background:rgb(252, 248, 0);
+    width: 210px;
+    float: left;
+    padding-left: 0px;
+    margin-top: -5px;
+    /* filter: brightness(0.5); */
+    /* mix-blend-mode:normal; */
+}
+
+.box2{
+    background-image: url("../Logo/Logo-ICO.ico");
+    width: 215px;
+    list-style: none;
+}
